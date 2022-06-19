@@ -1,3 +1,10 @@
+# Made by DankoOfficial on Github
+# Discord: $ky#3788
+# Dont skid, I'll catch you I swear. Give credits
+# .order | Create an order to a service
+# .status | Check your order's status
+# .services | Check the available services
+
 import discord
 from requests import post
 from discord.ext import commands
